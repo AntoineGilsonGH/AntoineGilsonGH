@@ -30,8 +30,8 @@ Here are some of my academic projects at ENSAE as well as some personal learning
 
 ### Be free to contact me !
 
-- [Linkedin :](https://www.linkedin.com/in/antoine-gilson/) 
-- [Email :] antoine.gilson@ensae.fr
+- [Linkedin](https://www.linkedin.com/in/antoine-gilson/) 
+- [Email](antoine.gilson@ensae.fr)
 
 
 
