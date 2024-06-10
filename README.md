@@ -6,20 +6,13 @@ Data Science, Machine Learning and Artificial Intelligence enthusiast.
 
 Here are some of my academic projects at ENSAE as well as some personal learning !
 
-### Soon working on :
-- Research internship (6 months | 06/2024 - 12/2024) at [INRIA Paris](https://www.inria.fr/fr/centre-inria-de-paris), in the [ARAMIS Lab](https://www.aramislab.fr), working on the statistical assessment of machine learning models and procedures in medical imaging.
-  [Advanced statistics | Deep Learning | Learning Procedures | Bayesian models]
-
-
 ### Currently working on :
 
-- Prevision of the performance and personnalisation of [Canal + International](https://www.canalplusgroup.com/fr/group/c-international) loyalties programs in Africa, 7 Million subscribers.
-[Data Science | Data Visualization | Clustering | Predictive models]() [Under Construction](https://github.com/Statapp-CANAL/Statapp-CANAL)
-- Personal progression and developpement in Machine Learning [Under Construction](https://github.com/AntoineGilsonGH/Learning-ML)
-
-
+- Research internship (6 months | 06/2024 - 12/2024) at [INRIA Paris](https://www.inria.fr/fr/centre-inria-de-paris), in the [ARAMIS Lab](https://www.aramislab.fr), working on the statistical assessment of machine learning models and procedures in medical imaging.
 
 ### Some Projects
+- - Prevision of the performance and personnalisation of [Canal + International](https://www.canalplusgroup.com/fr/group/c-international) loyalties programs in Africa, 7 Million subscribers.
+[Data Science | Data Visualization | Clustering | Predictive models]() [Under Construction](https://github.com/Statapp-CANAL/Statapp-CANAL)
 
 - AAPL trading algorithm based on time series prediction and NLP. [Project](https://github.com/RaphDab/Python-pour-la-DS)
 
