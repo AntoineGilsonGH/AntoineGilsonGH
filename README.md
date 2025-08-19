@@ -1,30 +1,29 @@
 # Antoine GILSON
 
-Second year student at [ENSAE Paris](https://www.ensae.fr/en).
+Last year student at [ENSAE Paris](https://www.ensae.fr/en).
+Also enrolled in the M2 Data Science at [École Polytechnique](https://www.ip-paris.fr/en/education/masters/applied-mathematics-and-statistics-program/master-year-2-data-science)
+ 
+Machine Learning enthusiast.
 
-Data Science, Machine Learning and Artificial Intelligence enthusiast.
+Some of my personal and school projects are available here.
 
-Here are some of my academic projects at ENSAE as well as some personal learning !
+### Main Experiences - My Resume
 
-### Currently working on :
+- **Okinawa Institute of Science and Technology (Japan, 2025)** — Research on optimal transport & representation learning  
+- **Royal Belgian Football Association (2025)** — Post-match performance analysis, marketing optimization with ML  
+- **Paris Brain Institute – ARAMIS Lab (2024)** — Deep learning for medical imaging & statistical assesment of machine learning models  
+- **Canal+ International (2023–2024)** — Customer data analysis (clustering, churn prediction, loyalty programs)  
 
-- Research internship (6 months | 06/2024 - 12/2024) at [INRIA Paris](https://www.inria.fr/fr/centre-inria-de-paris), in the [ARAMIS Lab](https://www.aramislab.fr), working on the statistical assessment of machine learning models and procedures in medical imaging.
+Some repositories are private and part of what I did in companies / at work. You can contact me to discuss about them!
 
-### Some Projects
-- Prevision of the performance and personnalisation of [Canal + International](https://www.canalplusgroup.com/fr/group/c-international) loyalties programs in Africa, 7 Million subscribers.
-[Data Science | Data Visualization | Clustering | Predictive models]() [Under Construction](https://github.com/Statapp-CANAL/Statapp-CANAL)
+### Feel free to contact me !
 
-- AAPL trading algorithm based on time series prediction and NLP. [Project](https://github.com/RaphDab/Python-pour-la-DS)
+- [Linkedin](https://www.linkedin.com/in/antoine-gilson/)  
+- [Email](mailto:antoine.gilson@ensae.fr)  
 
-- Optimization of a delivery network in Python using deterministic algorithms : Kruskal’s algorithm, Floyd-Warshall algorithm, and non deterministic algorithms : genetic algorithm and greedy algorithm. [Project](https://github.com/AntoineGilsonGH/Optimization-of-a-delivery-network)
-
-- Computer model the changes in opinion of an agent who is immersed in a group with different opinions. [Project](https://github.com/AntoineGilsonGH/physique_sciences_sociales)
+---
 
 
-### Be free to contact me !
-
-- [Linkedin](https://www.linkedin.com/in/antoine-gilson/) 
-- [Email](antoine.gilson@ensae.fr)
 
 
 
