@@ -35,7 +35,7 @@ Currently looking for a **PhD position** or a research-oriented role.
 - **Low-rank optimal transport with latent coupling (FRLC) in OTT-JAX** — Implementation of FRLC (Halmos et al., NeurIPS 2024) on top of OTT-JAX, compared with the toolbox's low-rank Sinkhorn solver. Optimal Transport course of Marco Cuturi (ENSAE).
   [Repo](https://github.com/AntoineGilsonGH/Low-Rank-OT-FRLC-OTT-JAX)
 - **Robust federated learning via spectral methods** — PCA-based detection of malicious gradients, with theoretical guarantees in a Gaussian mixture model (population and finite-sample regimes); implemented with power iteration and benchmarked against robust aggregators under gradient-poisoning attacks. École Polytechnique. *With C. Gadeau, M. Coppa and M. Simoneau.*
-  [Repo](https://github.com/AntoineGilsonGH/Federated-Learning-Research)
+  [Repo](https://github.com/AntoineGilsonGH/Byzantine-Robust-Federated-Learning)
 - **Time-series foundation models for classification** — Adapting pretrained Moirai encoder representations to multivariate classification on LSST (pooling strategies, patch scales, LoRA): 0.66 accuracy, on par with classical ML baselines and +0.06 over a CNN. Supervised by R. Tavenard. *With M. Coppa, M. Simoneau and A. Vautrin.*
   [Repo](https://github.com/Alpharama/DLforTimeSeries)
 - **Molecular graph captioning** — Graph-to-text retrieval: GNN encoders (GCN, GINE, GAT) aligned contrastively with pretrained text encoders (BERT, PubMedBERT), weighted top-k retrieval. ALTEGRAD course (IP Paris). *With P. Lemoine Vandermoere and A. Zenou.*
@@ -50,7 +50,7 @@ Currently looking for a **PhD position** or a research-oriented role.
 - **Statistical assessment of trained models** — Notebook toolkit to assess one model or compare two: descriptive statistics, confidence intervals, paired parametric / permutation / bootstrap tests, Wilcoxon, McNemar.
   [Repo](https://github.com/AntoineGilsonGH/Statistical-Assessment-of-Trained-Models)
 - **Zero-variance MCMC for GARCH models** — Control variates for variance reduction in Bayesian GARCH estimation, with LASSO selection for higher-order polynomials (Monte Carlo methods course).
-  [Repo](https://github.com/AntoineGilsonGH/Monte-Carlo-GARCH)
+  [Repo](https://github.com/AntoineGilsonGH/Zero-Variance-MCMC-GARCH)
 
 ### Applied data science
 
@@ -61,7 +61,7 @@ Currently looking for a **PhD position** or a research-oriented role.
 - **ML for portfolio management** — FRED macroeconomic data and FOMC statement sentiment to predict multi-asset ETF returns (Ridge, LightGBM), with mean-variance portfolios and backtesting. *With C. Gadeau.*
   [Repo](https://github.com/AntoineGilsonGH/Machine-Learning-For-Portfolio-Management)
 - **ARIMA forecasting of industrial production** — Box–Jenkins analysis in R of the French aeronautics and space production index; ARIMA(4,1,0) with bivariate forecast regions. *With V. Smague.*
-  [Repo](https://github.com/AntoineGilsonGH/Series_Temporelles_Lineaires)
+  [Repo](https://github.com/AntoineGilsonGH/ARIMA-Industrial-Production)
 - **MLOps prediction market** — LightGBM pipeline on Kalshi event markets with MLflow, FastAPI, Docker and CI/CD. ENSAE. *With M. Coppa, M. Simoneau and A. Vautrin.*
   [Repo](https://github.com/MaxCoppa/MLOps-Prediction-Market)
 
