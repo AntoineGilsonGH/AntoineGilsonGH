@@ -2,9 +2,9 @@
 
 Statistics & Machine Learning graduate — [École Polytechnique](https://www.polytechnique.edu) (M2 Data Science) and [ENSAE Paris](https://www.ensae.fr/en).
 
-I work on deep learning for physical and scientific data, and on the statistical evaluation of ML models — in particular, on when a reported improvement can actually be trusted.
+I work on applied statistics and machine learning across a large range of fields, from academic research to industry, with projects spanning medical imaging, sports analytics, finance and business data. More specifically, I worked on deep learning for physical and scientific data, and on the statistical evaluation of ML models in particular, on when a reported improvement can actually be trusted.
 
-Currently looking for a **PhD position** or a research-oriented role.
+Currently looking for a **full time position** in Statistics / Data Science / Machine Learning.
 
 [LinkedIn](https://www.linkedin.com/in/antoine-gilson/) · `antoine[dot]gilson[at]polytechnique[dot]edu` · `antoine[dot]gilson[at]icloud[dot]com`
 
@@ -12,12 +12,12 @@ Currently looking for a **PhD position** or a research-oriented role.
 
 ## Experience
 
-- **Thales R&D** — Moirans, France (2026)
+- **Thales R&D** — Grenoble, France (2026)
   Deep learning scatter correction for dual-layer spectral cone-beam CT, with physics-informed architectures.
 - **Okinawa Institute of Science and Technology** — Japan (2025)
   Benchmark of foundation models and non-contrastive representation learning; fine-tuning of PhiNet v2 on temporal visual sequences.
-- **Royal Belgian Football Association** — Tubize, Belgium (2025)
-  Tracking data: multi-agent trajectory modelling on set pieces and statistical performance metrics for tactical analysis.
+- **Royal Belgian Football Association** — Tubize, Belgium (2025)  
+  Automated corner-kick analysis from player tracking data and developed post-match performance analytics for coaches. Applied predictive modelling and segmentation to optimise fan   engagement campaigns and match attendance.
 - **Paris Brain Institute, ARAMIS Lab** — Paris, France (2024)
   Performance uncertainty and statistical validity of model comparisons in medical imaging AI. Two co-authored papers (below).
 
